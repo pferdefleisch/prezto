@@ -32,8 +32,16 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
+  'gnu-utility' \
+  'git' \
+  'archive' \
+  'osx' \
+  'z' \
+  'node' \
+  'syntax-highlighting' \
+  'history-substring-search' \
   'prompt'
-
+  #'ruby' \
 #
 # Editor
 #
